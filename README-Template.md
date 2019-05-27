@@ -12,16 +12,16 @@ The bootcamp is intended as a 2-day workshop to share knowledge between HPAXers 
 
 * 9am Pastries and optional laptop setup surgery (see installation notes below)
 * 9.30am ggplot2+R workshop (led by Jonny, HPAXers with R experience are welcome to pitch in at any time)
-* 12pm Lunch
+* 12pm Lunch (all HPAX)
 * 1pm Altair+Python workshop (led by Simon, HPAXers with Python experience are welcome to pitch in at any time)
-* 4.30pm Leave for Flight Club event in Victoria 
+* 4.30pm Leave for Flight Club event in Victoria (all HPAX)
 
 ### Day 2
 
 * 9am Pastries
 * 10am Tableau workshop (led by Callum)
-* 12pm Lunch
-* 1pm Codenames
+* 12pm Lunch (all HPAX)
+* 1pm Codenames (optional)
 * 1.30pm Pair up and generate your own charts
 * 4.30pm Chart/Insight roundtable (and prizes, maybe)
 
@@ -32,7 +32,9 @@ The bootcamp is intended as a 2-day workshop to share knowledge between HPAXers 
 
 ### Installing required software
 
-For the Altair+Python workshop, a step by step software installation guide setup_instructions.ipynb is available in this repository. Please follow the guide make sure your computer is set up before the workshop. If you have any problems please message in the hcom-hpax-hax Slack channel (others are likely to run into the same problem), or let Jonny or I know.
+* For the Altair+Python workshop, a step by step software installation guide setup_instructions.ipynb is available in this repository. Please follow the guide make sure your computer can generate a basic Altair chart in [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html) before the workshop. 
+
+If you have any problems please message in the hcom-hpax-hax Slack channel (others are likely to run into the same problem), or let Jonny or I know.
 
 From 9am-9.30am on Day 1, we will have a laptop setup surgery session for any last-minute problems.
 
