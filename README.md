@@ -1,4 +1,4 @@
-# HPAX DataVis Bootcamp
+# HPAX DataVis Bootcamp <a href="https://confluence.expedia.biz/pages/viewpage.action?pageId=833054595"><img align="right" src="https://www.evernote.com/shard/s663/sh/44f37bd8-a804-41f0-93ca-621c0119a6cf/d9e26575fcd6c027/res/74ecc039-537d-4240-8665-425c0e908469/skitch.png" height="50"></img></a>
 
 This is the Github repo for the HPAX DataVis bootcamp taking place in Angel Square G3 on Tuesday May 29 and Wednesday May 30. 
 
